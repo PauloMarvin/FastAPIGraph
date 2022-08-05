@@ -1,10 +1,9 @@
 # Uma API simples feita em FastAPI para trabalhar com grafos
 
-## A API é capaz de salvar, recuperar informações, consultar todos os caminhos entre dois vértices dado um valor máximo de paradas e calcula o menor caminho entre dois vértices
+A API é capaz de salvar, recuperar informações, consultar todos os caminhos entre dois vértices dado um valor máximo de paradas e calcula o menor caminho entre dois vértices
 
-## Os dados são salvos em um banco de dados PostgreSQL, utilizando docker para o ambiente de desenvolvimento
+Os dados são salvos em um banco de dados PostgreSQL, utilizando docker para o ambiente de desenvolvimento
 
-&nbsp;
 
 # Utilização
 * Comandos:
@@ -24,7 +23,6 @@
 
 ## Mais detalhes do funcionamento de cada endpoint estão disponíveis abaixo.
 
-&nbsp;
 
 ### Salvar Grafo
 
